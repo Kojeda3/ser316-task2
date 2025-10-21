@@ -1,0 +1,5 @@
+-`main` - stable production branch
+-`dev` - integration branch for features
+-`feature1`, `feature2`, `feature3` - experimental branches
+-`hotfix` - fix ready for `main`
+- To visualize locally:
